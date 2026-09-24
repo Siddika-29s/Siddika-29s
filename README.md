@@ -85,17 +85,21 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,50:10B981,75:EDE8D0,100:064E3B&height=2&section=header" width="82%"/>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siddika-29s&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EDE8D0&icon_color=10B981&text_color=E5E7EB&border_radius=10&include_all_commits=true" height="165"/>
+<img
+  src="https://ghstats.dev/api/card?username=Siddika-29s&bg=0D1117&text=E5E7EB&title_color=EDE8D0&icon_color=10B981&border_color=064E3B&border_radius=18&show_icons=true&show_ring=true"
+  width="520"
+/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=Siddika-29s&hide_border=true&background=0D1117&ring=EDE8D0&fire=10B981&currStreakLabel=EDE8D0&sideLabels=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&border_radius=10" height="165"/>
+<br><br>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddika-29s&layout=compact&hide_border=true&bg_color=0D1117&title_color=EDE8D0&text_color=E5E7EB&border_radius=10&langs_count=6" height="150"/>
+<img
+  src="https://ghstats.dev/api/languages?username=Siddika-29s&bg=0D1117&text=E5E7EB&title_color=EDE8D0&icon_color=10B981&border_color=064E3B&border_radius=18&layout=donut&max_langs=6"
+  width="520"
+/>
 
 </div>
 
