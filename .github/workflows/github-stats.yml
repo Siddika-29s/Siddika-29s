@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=Siddika-29s&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&bg_color=%230D1117&title_color=%23EDE8D0&text_color=%23E5E7EB&icon_color=%2310B981&border_radius=12'
+          options: 'username=Siddika-29s&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=EDE8D0&text_color=E5E7EB&icon_color=10B981&border_color=064E3B&border_radius=12'
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,7 +31,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=Siddika-29s&layout=compact&langs_count=5&hide_border=true&bg_color=%230D1117&title_color=%23EDE8D0&text_color=%23E5E7EB&border_radius=12'
+          options: 'username=Siddika-29s&layout=compact&langs_count=5&hide_border=true&bg_color=0D1117&title_color=EDE8D0&text_color=E5E7EB&border_color=064E3B&border_radius=12'
           path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
