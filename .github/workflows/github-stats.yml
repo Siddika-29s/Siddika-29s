@@ -27,6 +27,13 @@ jobs:
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Streak Card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: 'user=Siddika-29s&hide_longest_streak=true&background=0D1117&border=064E3B&stroke=064E3B&ring=10B981&fire=10B981&currStreakNum=EDE8D0&sideNums=EDE8D0&currStreakLabel=10B981&sideLabels=EDE8D0&dates=94A3B8&hide_border=true&border_radius=12&card_width=420&card_height=180&disable_animations=true'
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate Languages Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
