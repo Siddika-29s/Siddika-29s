@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="320" viewBox="0 0 420 320" fill="none">
+  <defs>
+    <linearGradient id="g" x1="70" y1="40" x2="350" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981"/>
+      <stop offset=".55" stop-color="#064E3B"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="cream" x1="120" y1="80" x2="300" y2="250">
+      <stop stop-color="#EDE8D0"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <!-- ambient glow -->
+  <circle cx="210" cy="165" r="92" fill="#10B981" opacity=".10" filter="url(#soft)"/>
+
+  <!-- orbit rings -->
+  <ellipse cx="210" cy="166" rx="145" ry="62" stroke="#10B981" stroke-opacity=".20"/>
+  <ellipse cx="210" cy="166" rx="112" ry="45" stroke="#EDE8D0" stroke-opacity=".10" transform="rotate(-18 210 166)"/>
+
+  <!-- floating code particles -->
+  <g fill="#EDE8D0" font-family="monospace" font-weight="700">
+    <text x="70" y="105" font-size="20" opacity=".75">&lt;/&gt;</text>
+    <text x="316" y="105" font-size="18" opacity=".55">{ }</text>
+    <text x="82" y="240" font-size="16" opacity=".45">01</text>
+    <text x="326" y="226" font-size="16" opacity=".65">;</text>
+  </g>
+
+  <!-- central glass panel -->
+  <rect x="108" y="92" width="204" height="146" rx="24" fill="#0D1117" fill-opacity=".72" stroke="url(#cream)" stroke-opacity=".55"/>
+  <rect x="119" y="103" width="182" height="124" rx="18" fill="url(#g)" opacity=".22"/>
+
+  <!-- window dots -->
+  <circle cx="132" cy="117" r="4" fill="#10B981"/>
+  <circle cx="145" cy="117" r="4" fill="#EDE8D0" opacity=".7"/>
+  <circle cx="158" cy="117" r="4" fill="#10B981" opacity=".45"/>
+
+  <!-- code -->
+  <g font-family="monospace">
+    <text x="132" y="145" font-size="13" fill="#10B981">const</text>
+    <text x="176" y="145" font-size="13" fill="#EDE8D0">dream</text>
+    <text x="221" y="145" font-size="13" fill="#10B981">=</text>
+    <text x="234" y="145" font-size="13" fill="#EDE8D0">build();</text>
+
+    <text x="132" y="168" font-size="12" fill="#94A3B8">while</text>
+    <text x="172" y="168" font-size="12" fill="#EDE8D0">(learning)</text>
+
+    <text x="145" y="191" font-size="12" fill="#10B981">code</text>
+    <text x="182" y="191" font-size="12" fill="#EDE8D0">→</text>
+    <text x="198" y="191" font-size="12" fill="#10B981">build</text>
+    <text x="235" y="191" font-size="12" fill="#EDE8D0">→</text>
+    <text x="251" y="191" font-size="12" fill="#10B981">grow</text>
+  </g>
+
+  <!-- sunflower -->
+  <g transform="translate(298 45)" filter="url(#glow)">
+    <g fill="#EDE8D0">
+      <ellipse cx="0" cy="-19" rx="6" ry="14"/>
+      <ellipse cx="19" cy="0" rx="14" ry="6"/>
+      <ellipse cx="0" cy="19" rx="6" ry="14"/>
+      <ellipse cx="-19" cy="0" rx="14" ry="6"/>
+      <ellipse cx="14" cy="-14" rx="6" ry="12" transform="rotate(45 14 -14)"/>
+      <ellipse cx="14" cy="14" rx="6" ry="12" transform="rotate(-45 14 14)"/>
+      <ellipse cx="-14" cy="14" rx="6" ry="12" transform="rotate(45 -14 14)"/>
+      <ellipse cx="-14" cy="-14" rx="6" ry="12" transform="rotate(-45 -14 -14)"/>
+    </g>
+    <circle r="10" fill="#10B981"/>
+    <circle r="4" fill="#064E3B"/>
+  </g>
+
+  <!-- orbit node -->
+  <circle cx="74" cy="169" r="7" fill="#10B981" filter="url(#glow)"/>
+  <circle cx="344" cy="177" r="5" fill="#EDE8D0"/>
+
+  <!-- bottom signature -->
+  <text x="210" y="277" text-anchor="middle" font-family="Inter,Arial,sans-serif"
+        font-size="12" letter-spacing="3" fill="#EDE8D0" opacity=".72">
+    LEARN • BUILD • BLOOM
+  </text>
+</svg>
