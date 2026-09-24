@@ -47,7 +47,7 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 
 <td width="40%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=EDE8D0&center=true&vCenter=true&width=300&height=120&lines=Code.;Learn.;Build.;Repeat.%20%F0%9F%8C%B1" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/Siddika-29s/Siddika-29s/main/siddika-about-visual-2.svg" width="360" alt="Siddika - Code Create Bloom"/>
 
 </td>
 
