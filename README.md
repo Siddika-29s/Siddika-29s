@@ -97,15 +97,30 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Siddika-29s/Siddika-29s/output/snake-dark.svg" width="90%" alt="Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Siddika-29s/Siddika-29s/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Siddika-29s/Siddika-29s/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Siddika-29s/Siddika-29s/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="90%"
+  />
+
+</picture>
 
 </div>
-
----
-
-<br>
 
 <div align="center">
 
