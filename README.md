@@ -5,10 +5,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=700&height=45&lines=Aspiring+Java+Backend+Developer+%F0%9F%92%BB;Learning+Spring+Boot+%26+REST+APIs+%E2%9A%A1;DSA+%2B+LeetCode+Enthusiast+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%E2%9C%A8" alt="Typing SVG"/>
 
 <br>
+<a href="https://leetcode.com/u/Siddika_29s/">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=34D399"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Siddika-29s&color=059669&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Siddika-29s?style=for-the-badge&label=FOLLOWERS&color=10B981&labelColor=0D1117"/>
+<a href="mailto:info.siddika07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981"/>
+</a>
+
+<a href="https://github.com/Siddika-29s">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=34D399"/>
+</a>
+
 
 </div>
 
@@ -96,24 +104,6 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 </div>
 
 ---
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Siddika_29s/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=34D399"/>
-</a>
-
-<a href="mailto:info.siddika07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981"/>
-</a>
-
-<a href="https://github.com/Siddika-29s">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=34D399"/>
-</a>
-
-</div>
 
 <br>
 
