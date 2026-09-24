@@ -89,22 +89,39 @@ I'm a **B.Tech Computer Science student** interested in software development, ba
 
 <div align="center">
 
-<img
-  src="https://ghstats.dev/api/card?username=Siddika-29s&bg=0D1117&text=E5E7EB&title_color=EDE8D0&icon_color=10B981&border_color=064E3B&border_radius=18&show_icons=true&show_ring=true"
-  width="520"
-/>
+<table>
+<tr>
 
-<br><br>
+<td width="50%" align="center">
 
 <img
-  src="https://ghstats.dev/api/languages?username=Siddika-29s&bg=0D1117&text=E5E7EB&title_color=EDE8D0&icon_color=10B981&border_color=064E3B&border_radius=18&layout=donut&max_langs=6"
-  width="520"
+  src="./profile/github-stats.svg"
+  width="420"
+  alt="GitHub Stats"
 />
 
-</div>
+</td>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,50:10B981,75:EDE8D0,100:064E3B&height=2&section=header" width="82%"/>
+<td width="50%" align="center">
+
+<img
+  src="./profile/languages.svg"
+  width="420"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,50:10B981,75:EDE8D0,100:064E3B&height=2&section=header"
+  width="82%"
+/>
+
 </div>
 
 ## 🐍 Contribution Snake
