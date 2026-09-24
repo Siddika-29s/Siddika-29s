@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,45:047857,75:059669,100:10B981&height=220&section=header&text=Hey%20!!%20Siddika%20this%20side%20%E2%9C%A8&fontSize=44&fontColor=EDE8D0&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Learner%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=17&descColor=EDE8D0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,45:047857,75:059669,100:10B981&height=220&section=header&text=Hey%20!!%20Siddika%20this%20side%20%F0%9F%8C%BB&fontSize=44&fontColor=EDE8D0&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Learner%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=17&descColor=EDE8D0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=EDE8D0&center=true&vCenter=true&width=700&height=45&lines=Aspiring+Java+Backend+Developer+%F0%9F%92%BB;Learning+Spring+Boot+%26+REST+APIs+%E2%9A%A1;DSA+%2B+LeetCode+Enthusiast+%F0%9F%9A%80;Building+Projects+%26+Learning+Every+Day+%E2%9C%A8" alt="Typing SVG"/>
 
